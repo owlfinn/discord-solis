@@ -1,5 +1,5 @@
 # Solis
-Solis is a Discord bot builten in [Python](https://www.python.org) and the library [disnake](https://docs.disnake.dev/en/stable/) to show current weather of a city, forecast of next 5 days excluding the date that it is being running and some more features. For the weather report it uses the openweathermap API
+Solis is a Discord bot builtin in [Python](https://www.python.org) and the library [disnake](https://docs.disnake.dev/en/stable/) to show current weather of a city, forecast of next 5 days excluding the date that it is being running and some more features. For the weather report it uses the openweathermap API
 
 ### Features
 
